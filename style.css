@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(75, 71, 71);
 }
 
 /* TRANSITION */
@@ -46,7 +46,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(69, 68, 68);
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -294,7 +294,7 @@ section {
 }
 
 .details-container {
-  padding: 1.5rem;
+  padding: 1rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
@@ -309,8 +309,8 @@ section {
 }
 
 .section__pic-container {
-  height: 400px;
-  width: 400px;
+  height: 450px;
+  width: 450px;
   margin: auto 0;
 }
 
@@ -322,8 +322,8 @@ section {
 
 .experience-sub-title {
   color: rgb(85, 85, 85);
-  font-weight: 600;
-  font-size: 1.75rem;
+  font-weight: 800;
+  font-size: 1.8rem;
   margin-bottom: 1rem;
 }
 
