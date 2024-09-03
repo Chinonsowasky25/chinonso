@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  color: rgb(32, 30, 30);
+  color: rgb(31, 27, 27);
 }
 
 /* TRANSITION */
@@ -85,6 +85,7 @@ a:hover {
   width: 30px;
   cursor: pointer;
 }
+
 
 .hamburger-icon span {
   width: 100%;
